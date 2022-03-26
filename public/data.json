@@ -1,0 +1,74 @@
+[
+    {
+        "id": "124e13b9",
+        "name": "Sit Ups Bar",
+        "price": 850,
+        "img": ""
+    },
+    {
+        "id": "13cbc7ed",
+        "name": "Tummy Trimmer",
+        "price": 1150,
+        "img": ""
+    },
+    {
+        "id": "307f166f",
+        "name": "3 way Manual Treadmill",
+        "price": 11000,
+        "img": ""
+    },
+    {
+        "id": "4bf9798f",
+        "name": "Hand Gripper",
+        "price": 700,
+        "img": ""
+    },
+    {
+        "id": "9496d72b",
+        "name": "Electric Treadmill",
+        "price": 32000,
+        "img": ""
+    },
+    {
+        "id": "6e5593d3",
+        "name": "Exercise Bike",
+        "price": 14500,
+        "img": ""
+    },
+    {
+        "id": "9c0c13c2",
+        "name": "Mini Pedal Exercise Bike",
+        "price": 12500,
+        "img": ""
+    },
+    {
+        "id": "c9d1f410",
+        "name": "Dumbbell pair 3kg",
+        "price": 1350,
+        "img": ""
+    },
+    {
+        "id": "1564a06b",
+        "name": "5kg Dumbbell pair",
+        "price": 2150,
+        "img": ""
+    },
+    {
+        "id": "ac44095f",
+        "name": "Weight Lifting Belt",
+        "price": 750,
+        "img": ""
+    },
+    {
+        "id": "8a5b4a9c",
+        "name": "Yoga Mat",
+        "price": 500,
+        "img": ""
+    },
+    {
+        "id": "b357e19b",
+        "name": "Fitness Gloves",
+        "price": 450,
+        "img": ""
+    },
+]
