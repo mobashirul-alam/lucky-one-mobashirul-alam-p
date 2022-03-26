@@ -19,8 +19,10 @@ const Equipments = () => {
     }
 
     const handleChooseBtn = props => {
-        return alert(props[Math.floor(Math.random() * props.length)].name)
+        return alert(props.length ? props[Math.floor(Math.random() * props.length)].name : 'Not available now')
     }
+
+    const handleChooseAgainBtn = () => setCart([])
 
     return (
         <div className='main-container'>
@@ -42,7 +44,7 @@ const Equipments = () => {
                     <div>
                         <button onClick={() => handleChooseBtn(cart)} className='cart-btn'>Choose 1 for me</button>
                         <br />
-                        <button className='cart-btn'>Choose again</button>
+                        <button onClick={handleChooseAgainBtn} className='cart-btn'>Choose again</button>
                     </div>
                 </div>
             </div>
