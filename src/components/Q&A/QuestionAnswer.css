@@ -1,0 +1,16 @@
+
+.question-answer{
+    width: 80%;
+    margin-inline: auto;
+}
+article{
+    margin-bottom: 25px;
+}
+span{
+    font-weight: 700;
+    display: block;
+}
+.answer2{
+    margin: 0;
+    margin-left: 3%;
+}
