@@ -2,6 +2,7 @@
 .main-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
+    
 }
 
 .equipment-container{
@@ -9,4 +10,26 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 30px;
+}
+
+.cart-container{
+    position: sticky;
+    top: 5px;
+    border: 2px solid red;
+    background-color: antiquewhite;
+    padding-inline: 2em;
+    padding-bottom: 1em;
+}
+.cart-btn{
+    border: 2px solid rgb(1, 179, 179);
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 3px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: whitesmoke;
+}
+.cart-btn:hover{
+    color: rgb(30, 45, 255);
+    border: 2px solid tomato;
 }

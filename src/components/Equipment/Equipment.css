@@ -6,7 +6,8 @@
     background-color: antiquewhite;
 }
 .btn-add2cart{
-    border: 1px solid white;
+    border: 2px solid rgb(1, 179, 179);
+    border-radius: 5px;
     padding: 10px;
     font-size: 16px;
     font-weight: 600;
@@ -14,5 +15,5 @@
 }
 .btn-add2cart:hover{
     color: rgb(30, 45, 255);
-    border: 1px solid white;
+    border: 2px solid tomato;
 }
