@@ -4,8 +4,13 @@ import './Cart.css'
 const Cart = () => {
     return (
         <div className='cart'>
-            <h1>This is cart</h1>
-        </div>
+            <h1 style={{ fontWeight: "400" }}>Selected Items</h1>
+            <div>
+                <button className='cart-btn'>Choose 1 for me</button>
+                <br />
+                <button className='cart-btn'>Choose again</button>
+            </div>
+        </div >
     );
 };
 

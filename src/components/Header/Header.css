@@ -1,4 +1,9 @@
 .header{
-    border-bottom: 2px solid darkmagenta;
+    width: 75%;
+    margin-inline: auto;
+    text-align: center;
+    border-bottom: 1px solid darkmagenta;
     padding-bottom: 20px;
+    font-size: 2.5em;
+    font-weight: 500;
 }
